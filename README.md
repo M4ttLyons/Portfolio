@@ -2,7 +2,7 @@
 This is the first personal project I completed. This is build using HTML and CSS and is also made to be web responsive to fit different sized displays.
 
 ## Live Demo
-Available soon
+Currently deployed at https://m4ttlyons.github.io/Portfolio/
 
 ## Learning Outcomes
 This project gave me a few valuable learning experiences:
