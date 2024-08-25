@@ -12,7 +12,7 @@
     --base-400: #555;
     --base-800: #000;
     --red: #ff4b4b;
-    --red-100: #ffe6e6;
+    --red-100: #ffb0b0;
     --red-400: #ff4b4b;
     --red-800: #8b0000;
     --blue: #0a61ae;
@@ -240,9 +240,9 @@ h1 {
         }
     }
 
-    .hero-yellow {
+    .hero-red {
         flex: 1;
-        background-color: var(--red);
+        background-color: var(--red-100);
         border-radius: 30px;
         padding: 0px 30px;
         display: flex;
