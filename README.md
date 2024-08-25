@@ -3,6 +3,8 @@ This is the first personal project I completed. This is build using HTML and CSS
 
 ## Live Demo
 I am currently working on deploying this webpage.
+![image](https://github.com/user-attachments/assets/a6ac597a-b447-49ce-9752-060b855ca19a)
+
 
 ## Learning Outcomes
 This project gave me a few valuable learning experiences:
