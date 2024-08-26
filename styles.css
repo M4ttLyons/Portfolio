@@ -317,6 +317,26 @@ h3 {
     color: var(--base-800);
 }
 
+h4 {
+    font-size: 32px;
+    line-height: 1;
+    margin-top: -20px;
+    text-align: center;
+    color: var(--base-800);
+
+
+    small {
+        display: block;
+        font-weight: 100;
+        font-size: 0.5em;
+        color: var(--base);
+    }
+
+    @media (max-width:1024) {
+        font-size: 24px;
+    }
+}
+
 .skills {
     .holder-blue {
         background-color: var(--blue-100);
